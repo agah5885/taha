@@ -69,7 +69,7 @@ margin-top:10px;
 .ilan{
 display:grid;
 grid-template-columns: repeat(5,1fr);
-width:142px;
+width:130px;
 text-align:center;
 border:1px solid gray;
 gap: 10px;
